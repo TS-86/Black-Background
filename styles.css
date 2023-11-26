@@ -1,0 +1,19 @@
+div { 
+  background-color: black; 
+}
+
+.top-header-navigation.d-none.d-md-flex { 
+  background-color: black; 
+}
+
+.sidebar-right .sidebar-wrapper { 
+  background: black !important; 
+}
+
+#sidebar-container .list-group .list-group-item {
+  background-color: black !important; 
+}
+
+.box-player .title[data-v-ff19f080] {
+  color: rgb(75, 230, 255) !important;
+}
